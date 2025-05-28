@@ -6,7 +6,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: Netflix.devopscicd.xyz
+  - host: netflix.devopscicd.xyz
     http:
       paths:
       - path: /
